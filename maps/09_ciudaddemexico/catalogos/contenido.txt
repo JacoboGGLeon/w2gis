@@ -1,0 +1,573 @@
+CONTENIDO 
+
+	
+El Instituto Nacional de Estadística y Geografía (INEGI), responsable de brindar el servicio 
+público de información estadística y geográfica, presenta el producto “MARCO 
+GEOESTADÍSTICO, JUNIO 2018” es un producto que se integra de archivos digitales en 
+formato shape,  conformado por 32 carpetas, cada una nombrada por la clave de entidad, con 
+un total nacional de  2 463 áreas geoestadísticas municipales,  45 157  polígonos de 
+localidades rurales y 4 563 urbanas,  254 719 localidades puntuales rurales,  351 polígonos 
+de territorio insular, 17 469 áreas geoestadísticas básicas rurales, 62 280 áreas 
+geoestadísticas básicas urbanas y 2 349 852  polígonos de manzanas urbanas y rurales, 
+información con nombres y claves geoestadísticas asociados como atributos.
+
+NOMBRES Y CONTENIDO DE LOS ARCHIVOS VECTORIALES
+
+Los nombres de archivos se conforman con las claves numéricas de la entidad federativa y 
+la capa con sufijos descriptivos del contenido del archivo:
+Donde:
+EE corresponde a la clave numérica de la entidad federativa: 01, 02,…32 (ver entidades.pdf).
+
+EEENT
+Áreas geoestadísticas estatales
+EEMUN
+Áreas geoestadísticas municipales
+EEAR
+Áreas geoestadísticas básicas rurales
+EEL     
+Localidades urbanas y rurales amanzanadas
+EELPR 
+Localidades puntuales rurales
+EETERRITORIO_INSULAR
+Islas
+EEA
+Áreas geoestadísticas básicas urbanas
+EEM
+Polígonos de manzana
+EEFM 
+Frentes de manzana
+EEE
+Ejes de vialidad
+EECD
+Caserío disperso
+EESIA
+Servicios e información complementaria de tipo área (áreas    
+verdes, camellones, glorietas)
+EESIL
+Servicios e información complementaria de tipo línea (ríos, 
+ferrocarriles)
+EESIP
+Servicios e información complementaria de tipo puntual 
+(palacios municipales o ayudantías, parques o jardines)
+
+FORMATO
+SHP	
+
+DOCUMENTACIÓN
+El “MARCO GEOESTADÍSTICO, JUNIO 2018” es la representación vectorial 
+correspondiente al corte de abril del 2018 del Catálogo Único de Claves de Áreas 
+Geoestadísticas Estatales, Municipales y Localidades, tomando las actualizaciones de las 
+localidades puntuales rurales que no afectaron amanzamiento; se complementa con los 
+siguientes archivos: el de presentación léeme, síntesis y descripción de la obra, y el 
+contenido que detalla las características técnicas de la información, todos los archivos 
+mencionados se encuentran en formato pdf y txt. Los catálogos en formato pdf y csv de:
+
+*	entidades
+*	municipios
+*	localidades_urbanas_y_rurales_amanzanadas
+*	localidades_rurales_que_rebasan_su_municipio
+*	localidades_urbanas_que_rebasan_su_municipio 
+*	localidades_islas (localidades que se ubican en un municipio y que 
+administrativamente pertenecen a otro municipio) 
+
+CARACTERÍSTICAS TÉCNICAS DE LA INFORMACIÓN:
+
+Parámetros:
+Cónica Conforme de Lambert (CCL).
+Dátum: ITRF2008.
+Elipsoide: GRS80.
+Meridiano origen: 102° 00’ 00’’ W.
+Latitud origen: 12° 00’ 00’’ N.
+Primer paralelo estándar: 17° 30’ N.
+Segundo paralelo estándar: 29° 30’ N.
+Falso Este: 2 500 000.
+Falso Norte: 0
+
+FUENTE
+La base cartográfica utilizada corresponde al MARCO GEOESTADÍSTICO, FEBRERO 2018.
+
+El software utilizado para la digitalización de la cartografía y generación de los archivos 
+SHAPE fue ArcGIS en su versión 10.6 y se puede presentar hasta 1 metro de tolerancia en el 
+archivo vectorial entre sus diversos elementos.  
+
+ESTRUCTURA 
+  EEENT
+Áreas Geoestadísticas Estatales 
+CAMPO
+DESCRIPCIÓN
+CVE_GEO
+CLAVE CONCATENADA
+CVE_ENT
+CLAVE DE ENTIDAD
+NOM_ENT
+NOMBRE DE LA ENTIDAD
+
+
+ 
+ EEMUN
+Áreas Geoestadísticas Municipales 
+CAMPO
+DESCRIPCIÓN
+CVEGEO
+CLAVE CONCATENADA
+CVE_ENT
+CLAVE DE ENTIDAD
+CVE_MUN
+CLAVE DE MUNICIPIO
+NOMGEO
+NOMBRE DEL MUNICIPIO
+
+
+
+
+
+  EEAR
+Áreas Geoestadísticas Básicas
+CAMPO
+DESCRIPCIÓN
+CVEGEO
+CLAVE CONCATENADA
+CVE_ENT
+CLAVE DE ENTIDAD
+CVE_MUN
+CLAVE DE MUNICIPIO
+CVE_AGEB
+CLAVE DE AGEB
+
+
+  EEL
+Límite de la Localidad.
+CAMPO
+DESCRIPCIÓN
+CVE_ENT
+CLAVE DE ENTIDAD 
+CVE_MUN
+CLAVE DE MUNICIPIO
+CVE_LOC
+CLAVE DE LOCALIDAD
+NOMLOC
+NOMBRE DE LA LOCALIDAD
+TIPO
+AMBITO DE LA LOCALIDAD
+
+
+  EELPR
+Puntos de ubicación de Localidades Rurales 
+CAMPO
+DESCRIPCIÓN
+CVEGEO
+CLAVE CONCATENADA
+CVE_ENT
+CLAVE DE ENTIDAD
+CVE_MUN
+CLAVE DE MUNICIPIO
+CVE_LOC
+CLAVE DE LOCALIDAD
+CVE_AGEB
+CLAVE DE AGEB
+CVE_MZA
+CLAVE DE MANZANA 
+NOMGEO
+NOMBRE DE LOCALIDAD
+PLANO
+ESTATUS DE AMANZANAMIENTO (DONDE N = SIN PLANO Y C= 
+CROQUIS QUE SON CASERIO DISPERSO)
+
+
+  EETERRITORIO_INSULAR              
+ Islas
+CAMPO
+DESCRIPCIÓN
+CVE_ENT
+CLAVE DE ENTIDAD
+CVE_MUN
+CLAVE DE MUNICIPIO
+CVE_AGEB
+CLAVE DE AGEB
+NOMBRE
+NOMBRE DE ISLA
+
+
+
+
+  EEA                                      Áreas Geoestadísticas Básicas del Marco Geoestadístico.
+CAMPO
+DESCRIPCIÓN
+CVE_ENT
+CLAVE DE ENTIDAD FEDERATIVA
+CVE_LOC
+CLAVE DE LOCALIDAD
+CVE_MUN
+CLAVE DE MUNICIPIO
+CVE_AGEB
+CLAVE DE AGEB
+
+
+
+
+
+
+
+
+  EEM
+Son los Polígonos  Físicos de la Localidad  (Manzana)
+CAMPO
+DESCRIPCIÓN
+CVE_ENT
+CLAVE DE ENTIDAD FEDERATIVA
+CVE_MUN
+CLAVE DE MUNICIPIO
+CVE_LOC
+CLAVE DE LOCALIDAD
+CVE_AGEB
+CLAVE DE AGEB
+CVE_MZA
+CLAVE DE MANZANA
+TIPOMZA
+TIPO DE MANZANA  puede ser: (Contenedora, Contenida, Económica, 
+Atípica, Edificio-Manzana, Típica, Parque o Jardín, Glorieta, Camellón, Bajo 
+Puente).
+
+
+
+
+   EEFM
+Frente de manzana
+CAMPO
+DESCRIPCIÓN
+CVE_ENT
+CLAVE DE ENTIDAD FEDERATIVA
+CVE_MUN
+CLAVE DE MUNICIPIO
+CVE_LOC
+CLAVE DE LOCALIDAD
+CVE_AGEB
+CLAVE DE AGEB
+CVE_MZA
+CLAVE DE MANZANA
+CVE_FT
+CLAVE DEL FRENTE DE MANZANA
+CVE_VIAL
+CLAVE DE LA VIALIDAD
+CVE_SEG
+CLAVE DEL SEGMENTO DE VIALIDAD CONFORME A LAS MANZANAS
+NOMVIAL
+NOMBRE DE VIALIDAD
+TIPOVIAL
+TIPO DE VIALIDAD
+
+
+  EEE
+Eje de Vialidad de Circulación (Calle, Avenida, Prolongación, Etc.)
+CAMPO
+DESCRIPCIÓN
+CVE_ENT
+CLAVE DE ENTIDAD FEDERATIVA
+CVE_MUN
+CLAVE DE MUNICIPIO
+CVE_LOC
+CLAVE DE LOCALIDAD
+CVE_VIAL
+CLAVE DE LA VIALIDAD
+CVE_SEG
+CLAVE DEL SEGMENTO DE VIALIDAD CONFORME A LAS MANZANAS
+NOMVIAL
+NOMBRE DE VIALIDAD
+TIPOVIAL
+TIPO DE VIALIDAD
+SENTIDO
+SENTIDO DE LA VIALIDAD
+
+
+
+
+  EECD
+Es  caserío disperso (Manzanas) fuera de la Localidad  
+CAMPO
+DESCRIPCIÓN
+CVE_ENT
+CLAVE DE ENTIDAD FEDERATIVA
+CVE_MUN
+CLAVE DE MUNICIPIO
+CVE_LOC
+CLAVE DE LOCALIDAD
+CVE_AGEB
+CLAVE DE AGEB
+CVE_MZA
+CLAVE DE MANZANA
+TIPOMZA
+MANZANA 800
+
+
+
+  EESIA
+Son los Servicios tipo Área de la Localidad.  (valores validos)
+CAMPO
+DESCRIPCIÓN
+CVE_ENT
+CLAVE DE ENTIDAD FEDERATIVA
+CVE_MUN
+CLAVE DE MUNICIPIO
+CVE_LOC
+CLAVE DE LOCALIDAD
+CVE_SERV
+CLAVE CONSECUTIVA DEL SERVICIO
+NOMBRE
+REFERENCIA DEL DATO GEOGRAFICO
+GEOGRAFICO
+NOMBRE DEL DATO GEOGRAFICO
+TIPO
+CLASIFICACION DEL DATO GEOGRAFICO
+CONDICION
+SITUACION ACTUAL DEL DATO GEOGRAFICO
+
+
+  EESIL
+Son los Servicios tipo Lineal de la Localidad.  (valores validos)
+CAMPO
+DESCRIPCIÓN
+CVE_ENT
+CLAVE DE ENTIDAD FEDERATIVA
+CVE_MUN
+CLAVE DE MUNICIPIO
+CVE_LOC
+CLAVE DE LOCALIDAD
+CVE_SERV
+CLAVE CONSECUTIVA DEL SERVICIO
+NOMBRE
+REFERENCIA DEL DATO GEOGRAFICO
+GEOGRAFICO
+NOMBRE DEL DATO GEOGRAFICO
+TIPO
+CLASIFICACION DEL DATO GEOGRAFICO
+CONDICION
+SITUACION ACTUAL DEL DATO GEOGRAFICO
+
+
+   EESIP
+Son los Servicios tipo Puntual de la Localidad. (valores validos)
+CAMPO
+DESCRIPCIÓN
+CVE_ENT
+CLAVE DE ENTIDAD FEDERATIVA
+CVE_MUN
+CLAVE DE MUNICIPIO
+CVE_LOC
+CLAVE DE LOCALIDAD
+CVE_AGEB
+CLAVE DE AGEB
+CVE_MZA
+CLAVE DE MANZANA
+CVE_SERV
+CLAVE CONSECUTIVA DEL SERVICIO
+NOMBRE
+REFERENCIA DEL DATO GEOGRAFICO
+GEOGRAFICO
+NOMBRE DEL DATO GEOGRAFICO
+TIPO
+CLASIFICACION DEL DATO GEOGRAFICO
+CONDICION
+SITUACION ACTUAL DEL DATO GEOGRAFICO
+
+?
+
+ 
+
+CAPAS DE INFORMACIÓN DE SERVICIOS Y CONTENIDO
+
+NOMBRE
+GEOMETRÍA
+CAPA
+AERÓDROMO CIVIL
+Área/Punto
+SIA/SIP
+ÁREA VERDE
+Área
+SIA
+CAMELLÓN
+Área
+SIA
+GLORIETA
+Área
+SIA
+CUERPO DE AGUA
+Área
+SIA
+INSTALACIÓN DIVERSA
+Área/Punto
+SIA / SIP
+INSTALACIÓN INDUSTRIAL
+Área
+SIA
+PLANTA DE AGUA
+Área
+SIA
+ZONA ARENOSA
+Área
+SIA
+
+ACUEDUCTO
+Línea
+SIL
+BORDO
+Línea/Área
+SIL/SIA
+CANAL
+Línea
+SIL
+CONDUCTO
+Línea
+SIL
+CORRIENTE DE AGUA
+Línea
+SIL
+FUNICULAR / TELEFÉRICO
+Línea / Punto
+SIL / SIP
+INSTALACIÓN PORTUARIA
+Línea / Área
+SIL / SIA
+LINDERO
+Línea
+SIL
+LÍNEA DE COSTA
+Línea
+SIL
+LÍNEA DE TRANSMISIÓN
+Línea
+SIL
+LÍNEA DE TREN METROPOLITANO
+Línea
+SIL
+PASO A DESNIVEL
+Línea / Punto
+SIL
+PISTA DE AVIACIÓN
+Línea/Punto / Área
+SIL/SIP / SIA
+PISTA DE CARRERAS
+Línea/Punto / Área
+SIL/SIP / SIA
+PRESA
+Línea / Área
+SIL / SIA
+PUENTE
+Línea
+SIL
+TÚNEL
+Línea
+SIL
+VÍA FÉRREA
+Línea
+SIL
+CAMINO
+Línea
+SIL
+CARRETERA
+Línea
+SIL
+
+CEMENTERIO
+Punto / Área
+SIP / SIA
+CENTRO COMERCIAL
+Punto / Área
+SIP / SIA
+CENTRO DE ASISTENCIA MÉDICA
+Punto / Área
+SIP / SIA
+DEPÓSITO DE DESECHOS
+Punto / Área
+SIP / SIA
+EDIFICACIÓN 
+Punto / Área
+SIP / SIA
+ESCUELA
+Punto / Área
+SIA/SIP
+ESTACIÓN DE TRANSPORTE TERRESTRE
+Punto / Área
+SIP / SIA
+ESTACIÓN DEL METRO
+Punto / Área
+SIP / SIA
+ESTANQUE
+Punto/Área
+SIP / SIA
+ESTRUCTURA ELEVADA
+Punto
+SIP
+FARO / RADIOFARO / VOR
+Punto
+SIP
+INSTALACIÓN DE BOMBEO
+Punto / Área
+SIP / SIA
+INSTALACIÓN DE COMUNICACIÓN
+Punto
+SIP
+INSTALACIÓN DE SERVICIOS
+Punto / Área
+SIP / SIA
+INSTALACIÓN DEPORTIVA O RECREATIVA
+Punto / Área
+SIP / SIA
+LUMBRERA
+Punto
+SIP
+MANANTIAL
+Punto
+SIP
+MERCADO
+Punto / Área
+SIP / SIA
+PALACIO DE GOBIERNO
+Punto / Área
+SIP / SIA
+PLAZA
+Punto / Área
+SIP / SIA
+POZO
+Punto
+SIP
+RAMPA PARA SILLA DE RUEDAS
+Punto
+SIP
+RASGO ARQUEOLÓGICO
+Punto / Área
+SIP / SIA
+SUBESTACIÓN ELÉCTRICA
+Punto / Área
+SIP / SIA
+TANQUE
+Punto / Área
+SIP / SIA
+TANQUE DE AGUA
+Punto / Área
+SIP / SIA
+TEMPLO
+Punto / Área
+SIP / SIA
+INFRAESTRUCTURA URBANA
+Punto 
+SIP 
+INSTALACIÓN GUBERNAMENTAL
+Punto
+SIP
+LOTE BALDÍO
+Punto
+SIP
+RESTRICCIÓN DE PASO A PEATONES Y/O 
+VEHÍCULOS
+Punto /Línea
+SIP / SIL
+INMUEBLE
+Punto
+SIP
+UNIDAD DE OBSERVACIÓN
+Punto
+SIP
+ZONA ARQUEOLÓGICA
+Punto / Área
+SIP / SIA
+

@@ -1,0 +1,12 @@
+SÍNTESIS
+
+
+MARCO GEOESTADÍSTICO, JUNIO 2018
+
+Contiene 32 carpetas, nombrado con la clave de la entidad, las cuales se integran por 
+áreas geoestadísticas, localidades puntuales rurales y cartografía urbana y rural 
+amanzanada. La actualización del vectorial correspondiente al MARCO 
+GEOESTADÍSTICO, FEBRERO 2018 con el corte de abril del 2018 del Catálogo Único 
+de Claves de Áreas Geoestadísticas Estatales, Municipales y Localidades, tomando 
+las actualizaciones de las localidades puntuales rurales que no afectaron 
+amanzamiento con sus respectivas claves y nombres. 

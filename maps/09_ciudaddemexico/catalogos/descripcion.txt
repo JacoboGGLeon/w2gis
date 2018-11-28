@@ -1,0 +1,55 @@
+DESCRIPCIÓN 
+
+MARCO GEOESTADÍSTICO, JUNIO 2018
+
+El Instituto Nacional de Estadística y Geografía (INEGI), responsable de brindar el 
+servicio público de información estadística y geográfica, presenta el producto 
+“MARCO GEOESTADÍSTICO, JUNIO 2018”. Es un producto que se integra de 
+archivos digitales en formato shape, compuesto de 32 carpetas, cada una nombrada 
+por la clave de la entidad correspondiente. Este producto deriva de la actualización del 
+MARCO GEOESTADÍSTICO, FEBRERO 2018 correspondiente con el Catálogo Único 
+de Claves de Áreas Geoestadísticas Estatales, Municipales y Localidades al mes de 
+abril del 2018, tomando las actualizaciones de las localidades puntuales rurales que no 
+afectaron amanzamiento, con sus respectivas claves y nombres.
+
+El Marco Geoestadístico es un marco de referencia definido por el Instituto, con 
+propósitos de captación, almacenamiento, procesamiento, análisis y presentación de 
+resultados, de la información estadística nacional que se recopila a través de los 
+censos y las encuestas. 
+ 
+El producto incluye la representación espacial en las siguientes capas:
+ 
+EEENT
+Áreas geoestadísticas estatales
+EEMUN
+Áreas geoestadísticas municipales
+EEAR
+Áreas geoestadísticas básicas rurales
+EEL     
+Localidades urbanas y rurales amanzanadas
+EELPR 
+Localidades puntuales rurales
+EETERRITORIO_INSULAR
+Islas
+EEA
+Áreas geoestadísticas básicas urbanas
+EEM
+Polígonos de manzanas
+EEFM 
+Frentes de manzana
+EEE
+Ejes de vialidad
+EECD
+Caserío disperso
+EESIA
+Servicios e información complementaria de tipo área (áreas verdes, camellones, 
+glorietas)
+EESIL
+Servicios e información complementaria de tipo línea (ríos, ferrocarriles)
+EESIP
+Servicios e información complementaria de tipo puntual (palacios municipales o 
+ayudantías, parques o jardines)
+
+La información está referida a la proyección Cónica Conforme de Lambert y el dátum 
+es MEXICO_ITRF_2008_LCC
+

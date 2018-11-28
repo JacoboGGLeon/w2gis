@@ -1,0 +1,407 @@
+Localidades  Islas,,,,,,,
+Localidades ubicadas en un municipio y  administrativamente pertenecen a otro municipio        ,,,,,,,
+"MARCO GEOESTADÍSTICO, JUNIO 2018   ",,,,,,,
+Pertenencia Administrativa,,,,,Ubicación  Espacial,,
+Clave de entidad,Clave de municipio,Clave de localidad,Clave de ageb,Nombre  de  localidad,Clave de entidad,Clave de municipio,Nombre  de  localidad
+7,13,7,002A,Allende Esquipulas,7,47,Jitotol
+7,13,124,002A,San José Mujular,7,73,Rayón
+7,16,299,110,Cuauhtemoc Quemado,7,65,Palenque
+7,22,32,29,Tzomoltón,7,26,Chenalhó
+7,23,12,26,Callejón,7,49,Larráinzar
+7,23,100,30,Jomtealhó,7,56,Mitontic
+7,23,112,30,Rasién,7,78,San Cristóbal de las Casas
+7,23,113,30,Tichen,7,26,Chenalhó
+7,23,127,30,Bashequen,7,26,Chenalhó
+7,33,4,37,Azapac Amatal,7,92,Tecpatán
+7,33,29,37,Paraíso,7,92,Tecpatán
+7,39,48,45,El Ocotal,7,81,Simojovel
+7,41,566,62,El Porvenir,7,52,Las Margaritas
+7,41,572,128,Santa Martha,7,99,La Trinitaria
+7,47,153,32,El Sumidero (Campo Alegre),7,14,El Bosque
+7,52,312,030A,Santa Margarita Agua Azul,7,115,Maravilla Tenejapa
+7,52,335,023A,San Mateo Zapotal,7,115,Maravilla Tenejapa
+7,52,464,329,San Rafael,7,41,La Independencia
+7,52,869,333,La Esmeralda de los Cipreses,7,41,La Independencia
+7,52,902,136,Victórico R. Grajales,7,4,Altamirano
+7,55,5,15,Los Hules,7,102,Tuxtla Chico
+7,57,575,62,La Ceiba,7,103,Tuzantán
+7,59,2054,917,Emiliano Zapata,7,52,Las Margaritas
+7,59,2981,245,La Flor de Getzemaní,7,31,Chilón
+7,68,102,28,Platanar Abajo 2da. Sección (Unidad Chiapaneca),27,8,Huimanguillo
+7,75,36,56,San Mateo,7,19,Comitán de Domínguez
+7,76,127,002A,San Juan el Mirador,7,39,Huitiupán
+7,81,271,002A,Jotolchén Dos (Planada Naranjal),7,118,San Andrés Duraznal
+7,81,301,34,Río Blanco,7,66,Pantelhó
+7,81,309,49,El Sabinal,7,14,El Bosque
+7,81,311,34,Tepeyac,7,66,Pantelhó
+7,81,364,49,Guadalupe Victoria I,7,14,El Bosque
+7,83,197,81,Tierra y Libertad,7,104,Tzimol
+7,83,210,81,San Pedro Pedernal,7,104,Tzimol
+7,89,1018,297,Dorados de Villa,7,54,Mazatán
+7,97,1527,212,"Isla, Mar y Tierra",7,69,Pijijiapan
+7,99,1044,96,Nuevo Paraíso,7,52,Las Margaritas
+7,100,63,46,Arroyo Agua Azul,7,31,Chilón
+7,103,215,14,Villa Hidalgo,7,89,Tapachula
+7,112,34,32,San Juan Bawitz,7,31,Chilón
+7,118,3,21,Jotolchén,7,81,Simojovel
+12,1,242,2045,Bella Vista Papagayo,12,53,San Marcos
+12,1,493,2045,La Arena,12,53,San Marcos
+12,1,680,1916,Rancho Alfonso Catalán,12,21,Coyuca de Benítez
+12,1,694,1992,Rancho el Tamarindillo,12,53,San Marcos
+12,2,157,014A,La Lobera,12,45,Olinalá
+12,2,182,173,Naranjastitlán,12,45,Olinalá
+12,3,7,452,Barranca Honda,12,54,San Miguel Totolapan
+12,3,8,310,Cacahuananche,12,22,Coyuca de Catalán
+12,3,160,452,El Zapotal,12,54,San Miguel Totolapan
+12,3,195,452,Pinzanal,12,54,San Miguel Totolapan
+12,3,198,033A,San Marcos Oriente,12,54,San Miguel Totolapan
+12,3,228,310,Palos Grandes,12,22,Coyuca de Catalán
+12,3,229,344,Santa María Santa Fe,12,22,Coyuca de Catalán
+12,3,243,518,Puerto de la Sangrinaria,12,57,Técpan de Galeana
+12,3,255,518,La Sanguinaria,12,57,Técpan de Galeana
+12,4,3,93,Ahuejutla,12,69,Xalpatláhuac
+12,4,14,125,Petlacalancingo,12,69,Xalpatláhuac
+12,4,41,013A,San Miguelito,12,43,Metlatónoc
+12,6,53,261,El Ciruelo,12,32,General Heliodoro Castillo
+12,6,54,261,El Aguacate,12,32,General Heliodoro Castillo
+12,6,56,257,El Calguaje,12,54,San Miguel Totolapan
+12,6,70,276,Pueblo Nuevo Santa María,12,26,Cuetzala del Progreso
+12,6,82,257,Las Garzas,12,32,General Heliodoro Castillo
+12,6,85,219,Pata de Burro,12,58,Teloloapan
+12,8,39,143,Agua Salada,12,34,Huitzuco de los Figueroa
+12,8,40,143,Las Joyas,12,34,Huitzuco de los Figueroa
+12,8,41,143,San Juan Teocalcingo,12,34,Huitzuco de los Figueroa
+12,9,4,47,Cuautipan,12,69,Xalpatláhuac
+12,10,103,118,Vista Hermosa,12,66,Tlapa de Comonfort
+12,10,105,141,Luis Donaldo Colosio Murrieta,12,72,Zapotitlán Tablas
+12,10,108,137,Vicente Guerrero,12,72,Zapotitlán Tablas
+12,11,166,280,Los Cimientos (Las Minas),12,57,Técpan de Galeana
+12,11,171,280,Colonia Piedra Parada,12,57,Técpan de Galeana
+12,11,236,295,La Sidra,12,14,Benito Juárez
+12,11,238,261,Ejido el Tambor,12,32,General Heliodoro Castillo
+12,11,283,312,El Ojo de Agua,12,21,Coyuca de Benítez
+12,11,284,312,Colonia Benito Juárez (El Posquelite),12,21,Coyuca de Benítez
+12,11,303,261,La Granada,12,32,General Heliodoro Castillo
+12,11,311,257,Las Tunas,12,21,Coyuca de Benítez
+12,11,342,257,Cerro Azul (Puerto los Pinos),12,21,Coyuca de Benítez
+12,12,92,017A,Plan de Gatica,12,76,Acatepec
+12,12,120,017A,Río Velero,12,76,Acatepec
+12,12,151,017A,Los Amates,12,76,Acatepec
+12,12,153,017A,Tlacuache,12,76,Acatepec
+12,12,163,017A,Ciénega del Sauce,12,76,Acatepec
+12,12,165,017A,Nueva Jerusalén,12,76,Acatepec
+12,12,166,017A,El Parotillo,12,76,Acatepec
+12,12,184,017A,La Palma Nuevo Paraíso,12,76,Acatepec
+12,14,98,85,Rancho Viejo,12,57,Técpan de Galeana
+12,15,31,97,Los Sauces,12,34,Huitzuco de los Figueroa
+12,15,46,97,Las Enramadas,12,34,Huitzuco de los Figueroa
+12,18,68,65,La Loma del Chivo,12,25,Cuautepec
+12,19,22,113,Ciruelo Amarillo,12,45,Olinalá
+12,19,29,113,El Tamarindo,12,45,Olinalá
+12,19,57,113,Zacualpa,12,45,Olinalá
+12,19,74,96,El Establo,12,8,Atenango del Río
+12,19,80,113,El Guaje (El Portezuelo),12,2,Ahuacuotzingo
+12,20,58,82,Crucero de Santa Cruz,12,69,Xalpatláhuac
+12,21,244,323,La Carbonera,12,1,Acapulco de Juárez
+12,21,255,380,Santa Cruz de Mitla,12,14,Benito Juárez
+12,22,63,710,Las Palancas,12,3,Ajuchitlán del Progreso
+12,22,461,763,Barranca del Sereno,12,48,Petatlán
+12,22,473,710,Los Bayados,12,3,Ajuchitlán del Progreso
+12,22,571,509,La Lagunita,12,73,Zirándaro
+12,22,602,710,Santa Clara (Santa Clara del Cobre),12,3,Ajuchitlán del Progreso
+12,22,707,509,El Zarzal,12,38,Zihuatanejo de Azueta
+12,22,713,763,Corralitos,12,48,Petatlán
+12,22,716,763,La Patacua,12,48,Petatlán
+12,22,717,763,El Soyamiche,12,48,Petatlán
+12,22,732,763,La Fronterita,12,48,Petatlán
+12,23,220,262,Rancho Mario Navarrete,12,13,Azoyú
+12,23,275,296,La Haciendita,12,13,Azoyú
+12,24,87,151,Rancho el Terrero,12,66,Tlapa de Comonfort
+12,24,90,151,Tzicatlacotla,12,66,Tlapa de Comonfort
+12,25,31,197,Estero del Marquez (Cachumbo),12,30,Florencio Villarreal
+12,25,39,182,La Ceiba,12,18,Copala
+12,25,49,178,Fábrica Vieja,12,12,Ayutla de los Libres
+12,25,51,197,La Soledad,12,30,Florencio Villarreal
+12,28,208,324,Buena Vista de las Pilas,12,79,José Joaquín de Herrera
+12,29,30,904,Carrizal de la Vía,12,39,Juan R. Escudero
+12,29,97,779,Colonia General Heliodoro Castillo (Chicahuales),12,32,General Heliodoro Castillo
+12,29,408,891,Las Enramadas (Rancho las Enramadas),12,44,Mochitlán
+12,29,421,849,Zeutla,12,21,Coyuca de Benítez
+12,29,448,779,Las Canoitas,12,32,General Heliodoro Castillo
+12,32,315,350,Corralitos (El Banco de Grava),12,54,San Miguel Totolapan
+12,32,338,346,Monte Grande,12,6,Apaxtla
+12,32,401,350,Las Palomas,12,40,Leonardo Bravo
+12,35,5,598,Colonia el Carmen,12,55,Taxco de Alarcón
+12,35,37,649,El Tercer Mundo,12,59,Tepecoacuilco de Trujano
+12,35,197,598,Colonia Ernesto Che Guevara (La Che Guevara),12,58,Teloloapan
+12,36,8,82,La Reforma,12,13,Azoyú
+12,36,24,63,Chimalapa,12,43,Metlatónoc
+12,36,31,82,El Mango,12,13,Azoyú
+12,38,242,369,Mesas de Miramar,12,22,Coyuca de Catalán
+12,38,310,369,El Pitero,12,22,Coyuca de Catalán
+12,39,44,205,San Juan del Reparo Norte (San Juan del Reparo),12,53,San Marcos
+12,39,45,205,San Juan del Reparo Sur (San Juan del Reparo),12,53,San Marcos
+12,39,56,205,Chacalapa de Bravos,12,53,San Marcos
+12,39,58,205,Las Partidas,12,53,San Marcos
+12,40,328,263,Los Paredones,12,75,Eduardo Neri
+12,41,75,222,Xkua Xtuti,12,20,Copanatoyac
+12,41,113,241,Cerro el Timbre (Portezuelo la Ciénega),12,63,Tlacoapa
+12,41,124,222,San Juan de las Nieves,12,20,Copanatoyac
+12,41,154,222,Cerro Tlalixtatepec,12,20,Copanatoyac
+12,41,156,222,Filo del Gavilán (Barranca de los Muertos),12,20,Copanatoyac
+12,42,23,234,Teocalipa,12,75,Eduardo Neri
+12,43,125,301,Lagunas,12,4,Alcozauca de Guerrero
+12,43,131,316,Río San Martín,12,9,Atlamajalcingo del Monte
+12,43,192,335,Doyo Kutu'ndii,12,81,Iliatenco
+12,43,246,316,Yoso Ndavi,12,41,Malinaltepec
+12,44,53,021A,La Villita,12,61,Tixtla de Guerrero
+12,45,114,293,El Crucero Tecosajca,12,2,Ahuacuotzingo
+12,45,137,310,Rancho Ismael Patrón,12,24,Cualác
+12,45,205,026A,Las Anonas,12,2,Ahuacuotzingo
+12,45,208,306,Cerro de las Campanas,12,24,Cualác
+12,45,234,026A,Rancho Antonino García,12,2,Ahuacuotzingo
+12,45,272,310,Rufino Abarca,12,24,Cualác
+12,47,3,194,Agua Colorada,12,58,Teloloapan
+12,48,209,505,El Zacatonal,12,38,Zihuatanejo de Azueta
+12,48,480,609,Rancho la Teltes,12,38,Zihuatanejo de Azueta
+12,48,661,609,La Colorada (El Callejón de la Colorada),12,38,Zihuatanejo de Azueta
+12,48,719,647,El Aguacate,12,57,Técpan de Galeana
+12,48,722,469,Los Renovales,12,38,Zihuatanejo de Azueta
+12,48,726,558,Los Lirios,12,22,Coyuca de Catalán
+12,49,48,165,La Poza (El Puente),12,55,Taxco de Alarcón
+12,50,11,019A,Placeritos,12,27,Cutzamala de Pinzón
+12,52,95,387,El Manguito,12,9,Atlamajalcingo del Monte
+12,52,96,387,Mixtecapa,12,9,Atlamajalcingo del Monte
+12,52,106,387,Barrio de Guadalupe,12,9,Atlamajalcingo del Monte
+12,52,107,387,Cruz Alta,12,9,Atlamajalcingo del Monte
+12,52,108,387,Llano de Maguey,12,9,Atlamajalcingo del Monte
+12,52,115,372,Tierra Colorada,12,9,Atlamajalcingo del Monte
+12,52,117,387,Pie de Tierra Blanca (Tierra Blanca),12,9,Atlamajalcingo del Monte
+12,52,134,387,Altepec,12,9,Atlamajalcingo del Monte
+12,52,156,387,El Mirasol,12,9,Atlamajalcingo del Monte
+12,54,94,324,Piedras Grandes,12,32,General Heliodoro Castillo
+12,54,315,292,El Crucero del Remance,12,3,Ajuchitlán del Progreso
+12,54,340,324,Las Trancas,12,32,General Heliodoro Castillo
+12,54,372,305,La Monera,12,7,Arcelia
+12,55,78,340,Los Naranjos,12,37,Ixcateopan de Cuauhtémoc
+12,55,135,340,El Ancón,12,37,Ixcateopan de Cuauhtémoc
+12,55,147,406,La Güera,12,15,Buenavista de Cuéllar
+12,55,203,355,San Francisco,12,60,Tetipac
+12,55,204,036A,El Huixteco,12,60,Tetipac
+12,56,52,259,El Zanate,12,12,Ayutla de los Libres
+12,57,530,561,San Isidro el Venado,12,48,Petatlán
+12,57,538,561,El Nogal,12,48,Petatlán
+12,57,597,754,El Mirador,12,48,Petatlán
+12,58,142,380,Puerto del Ocote,12,31,General Canuto A. Neri
+12,58,232,465,La Cañada del Durazno,12,6,Apaxtla
+12,58,237,408,Puerto del Timón,12,7,Arcelia
+12,58,264,412,Primera Cerca,12,31,General Canuto A. Neri
+12,58,297,412,Miahuatepec,12,7,Arcelia
+12,58,324,380,Nueva Esperanza,12,31,General Canuto A. Neri
+12,59,98,316,Tequitlalpan,12,34,Huitzuco de los Figueroa
+12,59,99,316,Tepozonalco,12,34,Huitzuco de los Figueroa
+12,60,34,162,Bordo Mora,12,49,Pilcaya
+12,61,40,225,Chalico (Rancho Chalico),12,29,Chilpancingo de los Bravo
+12,62,64,028A,El Aguacate (Camino a Xochistlahuaca),12,46,Ometepec
+12,62,80,256,Barrio de Hoja Dura (Arroyo Chimalapa),12,43,Metlatónoc
+12,62,81,256,Arroyo Faisán,12,43,Metlatónoc
+12,62,100,256,Piedra Blanca,12,43,Metlatónoc
+12,62,128,028A,El Mesón,12,46,Ometepec
+12,63,50,164,La Magueyera,12,41,Malinaltepec
+12,66,91,221,Barranca Grande,12,69,Xalpatláhuac
+12,66,98,255,San Miguelito,12,69,Xalpatláhuac
+12,68,158,476,El Ampotal,12,16,Coahuayutla de José María Izazaga
+12,68,317,476,El Capire,12,16,Coahuayutla de José María Izazaga
+12,68,320,476,Rancho la Higuerita,12,16,Coahuayutla de José María Izazaga
+12,69,21,172,El Mezquite,12,66,Tlapa de Comonfort
+12,71,125,026A,Rancho las Tortolitas,12,46,Ometepec
+12,72,64,271,Llano Pericón,12,10,Atlixtac
+12,72,121,271,El Rincón,12,10,Atlixtac
+12,73,367,550,Paso Ancho,12,22,Coyuca de Catalán
+12,73,651,546,El Billete,12,22,Coyuca de Catalán
+12,73,653,508,Las Juntas,12,22,Coyuca de Catalán
+12,73,698,550,Rancho de Dolores,12,22,Coyuca de Catalán
+12,73,722,508,La Guajillera,12,22,Coyuca de Catalán
+12,74,34,238,Totola,12,28,Chilapa de Álvarez
+12,75,105,447,Azteca,12,29,Chilpancingo de los Bravo
+12,76,48,20,El Capulín,12,63,Tlacoapa
+12,76,52,20,Loma Maguey,12,63,Tlacoapa
+12,76,56,20,Zilacayota,12,63,Tlacoapa
+12,76,59,20,Barranca Lima,12,72,Zapotitlán Tablas
+12,76,63,20,Flor de Pascua,12,72,Zapotitlán Tablas
+12,76,65,20,Lázaro Cárdenas,12,72,Zapotitlán Tablas
+12,76,69,20,El Mirador,12,72,Zapotitlán Tablas
+12,76,70,20,Puerto Buenavista,12,72,Zapotitlán Tablas
+12,76,72,20,Tierra Colorada,12,72,Zapotitlán Tablas
+12,76,78,20,El Tejocote,12,63,Tlacoapa
+12,76,81,20,Lomadad,12,63,Tlacoapa
+12,76,89,20,Barranca Xoco,12,72,Zapotitlán Tablas
+12,76,91,20,Cerro el Maguey,12,72,Zapotitlán Tablas
+12,76,96,20,Colonia Ocote Capulín,12,72,Zapotitlán Tablas
+12,76,103,20,Laguna Potrero,12,72,Zapotitlán Tablas
+12,76,106,20,Llano Maizal,12,72,Zapotitlán Tablas
+12,76,107,20,Ojo de Agua,12,72,Zapotitlán Tablas
+12,76,110,20,San Marcos Yerba Santa,12,72,Zapotitlán Tablas
+12,76,111,20,Santa Rosa,12,72,Zapotitlán Tablas
+12,76,113,20,Yerba Santa,12,72,Zapotitlán Tablas
+12,76,114,20,Filo de Arena,12,63,Tlacoapa
+12,76,116,20,Loma del Ocote Dos,12,63,Tlacoapa
+12,76,117,20,Colonia Plan Verde,12,72,Zapotitlán Tablas
+12,76,118,20,Plan del Guayabo,12,72,Zapotitlán Tablas
+12,76,119,20,Rancho Porfirio de la Cruz,12,72,Zapotitlán Tablas
+12,76,120,20,Barranca Honda,12,63,Tlacoapa
+12,76,123,20,Huixtlazala,12,72,Zapotitlán Tablas
+12,76,130,20,Rancho Pollo,12,72,Zapotitlán Tablas
+12,76,131,20,Río del Sauce,12,72,Zapotitlán Tablas
+12,76,138,20,Colonia Piedra Conejo,12,72,Zapotitlán Tablas
+12,76,139,20,Laguna Seca,12,63,Tlacoapa
+12,77,21,70,Las Palmas,12,13,Azoyú
+12,79,65,22,Tonalteme,12,28,Chilapa de Álvarez
+15,74,126,195,Ejido del Tunal Nenaxi,15,48,Jocotitlán
+15,78,42,67,Frontón Vivero,15,110,Valle de Bravo
+15,87,40,155,Llano de la Y,15,67,Otzolotepec
+15,97,51,81,Las Lágrimas,15,86,Temascaltepec
+17,26,8,36,Las Vivianas,17,29,Yautepec
+17,26,59,36,Colonia el Partidor (El Capulín),17,29,Yautepec
+20,9,12,22,Plan Juan Martínez,20,417,Santa María Jacatepec
+20,9,13,22,San José Mano Marqués,20,417,Santa María Jacatepec
+20,13,4,25,La Tablita de la Yocuela,20,570,Zimatlán de Álvarez
+20,26,26,23,Linda Vista,20,297,San Pablo Tijaltepec
+20,26,27,23,Unión y Progreso,20,297,San Pablo Tijaltepec
+20,28,42,66,La Escalera,20,15,Coatecas Altas
+20,37,44,27,Santa Rosa Hidalgo,20,73,Putla Villa de Guerrero
+20,39,55,89,San Sebastián Progreso,20,462,Santiago Huajolotitlán
+20,39,64,74,San Francisco Yosocuta,20,237,San Marcos Arteaga
+20,39,65,74,Saucitlán de Morelos,20,160,San Jerónimo Silacayoapilla
+20,41,124,34,Santa Catarina Buenavista,20,40,Huautepec
+20,43,152,202,Colonia San Isidro,20,441,Santa María Xadani
+20,43,153,185,Colonia San Vicente,20,441,Santa María Xadani
+20,59,114,81,Santa María el Palmar,20,154,San Ildefonso Amatlán
+20,59,115,81,Sitio de Lachidoblas,20,347,San Sebastián Río Hondo
+20,61,2,18,Santa María Velató,20,15,Coatecas Altas
+20,73,116,80,El Carrizal de Galeana,20,88,San Andrés Cabecera Nueva
+20,73,119,23,San Jorge Río Frijol,20,469,Santiago Juxtlahuaca
+20,73,120,57,San Miguel Copala,20,469,Santiago Juxtlahuaca
+20,73,123,57,Joya del Mamey Copala,20,469,Santiago Juxtlahuaca
+20,73,124,57,Llano de Aguacate,20,469,Santiago Juxtlahuaca
+20,88,18,45,El Limón,20,447,Santa María Zacatepec
+20,98,16,22,Aguacate,20,330,San Pedro Teutila
+20,98,18,37,La Escalera,20,330,San Pedro Teutila
+20,98,21,22,Piedra Colorada,20,330,San Pedro Teutila
+20,110,6,14,Yosocahua,20,397,Heroica Ciudad de Tlaxiaco
+20,123,3,27,San Jerónimo Tititlán,20,570,Zimatlán de Álvarez
+20,125,94,17,El Aguacate,20,231,San Lucas Camotlán
+20,125,99,17,Río Canela,20,231,San Lucas Camotlán
+20,141,85,44,Colonia Villanueva,20,143,San Francisco Ixhuatán
+20,141,99,114,Santa Rita (Santa Rita del Mar),20,143,San Francisco Ixhuatán
+20,141,100,44,El Vergel del Maíz,20,143,San Francisco Ixhuatán
+20,143,63,49,Cachimbo,20,141,San Francisco del Mar
+20,154,3,19,La Reforma,20,347,San Sebastián Río Hondo
+20,154,5,19,Extebe,20,347,San Sebastián Río Hondo
+20,156,9,28,Analco (Barrio de Villa Alta),20,128,San Cristóbal Lachirioag
+20,166,68,24,Roberto Olivares Arellano,20,417,Santa María Jacatepec
+20,188,20,17,La Soledad,20,82,San Agustín Chayuco
+20,189,4,29,San Isidro Tres Arroyos,20,460,Santiago Choápam
+20,190,168,142,Arroyo Venado,20,205,San Juan Lalana
+20,198,25,28,Brena Torres,20,207,San Juan Mazatlán
+20,198,110,28,Arroyo Lirio,20,207,San Juan Mazatlán
+20,198,112,28,Nuevo Brena Torres,20,57,Matías Romero Avendaño
+20,198,113,28,Colonia Istmeña el Zapote,20,57,Matías Romero Avendaño
+20,198,117,136,Plan de San Luis,20,57,Matías Romero Avendaño
+20,200,13,32,El Zapote,20,64,Nejapa de Madero
+20,201,2,10,Las Delicias,20,280,Villa Talea de Castro
+20,207,24,29,Doce de Julio,20,57,Matías Romero Avendaño
+20,207,30,29,La Esperanza,20,57,Matías Romero Avendaño
+20,207,49,71,Tierra Nueva,20,57,Matías Romero Avendaño
+20,207,50,86,Lázaro Cárdenas,20,57,Matías Romero Avendaño
+20,207,79,86,La Palestina,20,57,Matías Romero Avendaño
+20,207,81,29,Los Raudales,20,190,San Juan Cotzocón
+20,207,88,86,La Soledad,20,57,Matías Romero Avendaño
+20,207,89,207,Los Valles,20,412,Santa María Guienagati
+20,211,18,21,Cerro de Olla,20,266,San Miguel del Puerto
+20,213,35,30,Atrás del Peñasco,20,272,San Miguel Panixtlahuaca
+20,214,12,23,Santiago Cuasimulco,20,336,San Pedro Yólox
+20,244,13,18,Inspectoría Independencia Guadalupe,20,109,San Antonio Nanahuatípam
+20,259,7,10,Ñihuichi,20,183,San Juan Bautista Tlachichilco
+20,261,22,19,Guadalupe Villahermosa,20,529,Santos Reyes Yucuná
+20,265,69,22,Los Ocotones,20,407,Santa María Chimalapa
+20,266,121,15,Santa Catarina Jamixtepec,20,125,San Carlos Yautepec
+20,273,14,001A,El Tecolote,20,108,San Antonio Huitepec
+20,275,25,29,Santa Margarita Huitepec,20,231,San Lucas Camotlán
+20,277,218,23,Chaneque Verde,20,491,Santiago Textitlán
+20,290,6,10,San Pedro Salinas,20,34,Guadalupe de Ramírez
+20,291,7,37,Tamarindo,20,344,San Sebastián Coatlán
+20,298,8,38,Don Pedrillo,20,551,Tlacolula de Matamoros
+20,310,14,15,José Guadalupe Martínez García,20,385,Santa Cruz Xoxocotlán
+20,310,15,15,Juquilita,20,385,Santa Cruz Xoxocotlán
+20,310,17,15,Las Razas,20,385,Santa Cruz Xoxocotlán
+20,324,235,10,Los Naranjos Esquipulas,20,306,San Pedro el Alto
+20,324,237,190,San Pedro Cafetitlán,20,253,San Mateo Piñas
+20,324,238,190,Unión de Guerrero,20,253,San Mateo Piñas
+20,330,10,18,San José Despoblado,20,98,San Andrés Teotilálpam
+20,336,21,11,El Carrizal,20,1,Abejones
+20,339,27,28,Santo Domingo Tlachitongo,20,140,San Francisco Chindúa
+20,388,19,18,La Herradura,20,292,San Pablo Cuatro Venados
+20,392,43,10,El Paraíso Nopalera,20,481,Santiago Nuyoó
+20,397,105,55,Mexicalcingo de los Granados,20,532,Santo Tomás Ocotepec
+20,397,108,89,San Felipe Tindaco,20,297,San Pablo Tijaltepec
+20,397,109,89,San Pedro Yosotatu,20,481,Santiago Nuyoó
+20,397,110,89,Santo Domingo Huendío,20,50,Magdalena Peñasco
+20,397,114,89,Llano de Plaza,20,297,San Pablo Tijaltepec
+20,397,115,89,Loma Aplastado,20,297,San Pablo Tijaltepec
+20,397,116,89,Loma Snuviji,20,297,San Pablo Tijaltepec
+20,397,117,89,El Mogote,20,297,San Pablo Tijaltepec
+20,397,118,89,Nuñuma,20,297,San Pablo Tijaltepec
+20,397,120,89,Yucahua,20,297,San Pablo Tijaltepec
+20,397,121,89,Yucutu,20,297,San Pablo Tijaltepec
+20,397,122,89,Yutendoo,20,297,San Pablo Tijaltepec
+20,403,11,16,El Higo Montes [Paraje],20,83,San Agustín de las Juntas
+20,404,10,13,Río Chiquito,20,523,Santo Domingo Yanhuitlán
+20,406,38,41,Zongolica,20,41,Huautla de Jiménez
+20,406,90,41,La Raya,20,41,Huautla de Jiménez
+20,412,28,002A,Xicalpestle,20,36,Guevea de Humboldt
+20,412,44,15,Las Palmas (El Palmar),20,36,Guevea de Humboldt
+20,412,47,002A,El Cardamomo,20,36,Guevea de Humboldt
+20,417,63,11,El Manantial,20,184,San Juan Bautista Tuxtepec
+20,420,9,17,Rincón Hacienda Vieja,20,535,San Vicente Lachixío
+20,420,10,17,Loma Larga,20,535,San Vicente Lachixío
+20,426,16,003A,El Manzanito Tepantepec,20,273,San Miguel Peras
+20,453,11,18,Barra de la Cruz,20,307,San Pedro Huamelula
+20,453,12,18,Zimatán,20,307,San Pedro Huamelula
+20,458,29,14,La Chuparrosa (Luvina Vieja),20,296,San Pablo Macuiltianguis
+20,469,116,22,Santo Domingo del Progreso,20,208,San Juan Mixtepec
+20,492,24,35,Guadalupe Tilantongo (Llano de las Avispas),20,46,Magdalena Jaltepec
+20,515,114,328,Santa María Nativitas Coatlán,20,470,Santiago Lachiguiri
+20,517,9,17,Loma Larga,20,337,San Pedro y San Pablo Ayutla
+20,517,10,17,Loma Linda,20,325,San Pedro Quiatoni
+20,526,101,004A,San Isidro Campechero,20,334,Villa de Tututepec
+20,553,24,28,Santa Catalina de Sena,20,519,Santo Domingo Tomaltepec
+20,570,20,86,La Cumbre Clavellinas,20,292,San Pablo Cuatro Venados
+20,570,62,71,El Machín,20,104,San Antonino el Alto
+20,570,95,226,La Santa Cruz,20,295,San Pablo Huixtepec
+20,570,96,226,San José Guelatová de Díaz,20,387,Santa Gertrudis
+30,9,238,30,Arroyo Agrio,30,4,Actopan
+30,10,47,12,Colonia Ejidal Guadalupe Victoria,30,163,Tenochtitlán
+30,58,339,88,Lindero Achupil,30,27,Benito Juárez
+30,63,48,69,Tamalcuatitla,30,78,Ixcatepec
+30,69,19,24,Paguas de Coronado,30,124,Papantla
+30,141,174,137,Vista Hermosa II,30,73,Hueyapan de Ocampo
+30,171,4,13,Atzingo,30,110,Mixtla de Altamirano
+30,210,121,117,Rafael Murillo Vidal,30,108,Minatitlán
+31,9,3,69,San Antonio Xiat,31,72,Suma
+31,14,40,35,X-Akabchén,31,17,Chankom
+31,17,14,75,X-Bohom,31,43,Kaua
+31,17,83,008A,Muchucuxcáh,31,81,Tekom
+31,30,76,96,Yaxché,31,91,Tinum
+31,48,10,018A,Kanachén,31,45,Kopomá
+31,48,18,018A,Santa Cruz,31,55,Opichén
+31,67,46,43,Holactún,31,74,Tahmek
+31,76,11,76,Sotuta de Peón,31,50,Mérida
+31,81,11,57,X-Cocmil,31,22,Chikindzonot
+31,92,4,101,Ekpedz,31,22,Chikindzonot
+31,94,5,55,Chicán,31,75,Teabo
+31,98,39,177,Xcobiakal (Xcobilakal),31,58,Peto
+31,101,13,155,San Antonio Mulix,31,23,Chocholá
+31,102,149,171,X-Cohuó,31,19,Chemax
+31,102,631,222,Bolmay,31,19,Chemax
+31,102,655,186,Santa Eleuteria,31,14,Cuncunul
